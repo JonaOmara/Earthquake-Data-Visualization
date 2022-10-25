@@ -5,8 +5,8 @@ In this project, I used Java to perform data visualization on earth quake data. 
 
 ## Table of Contents
 * [Installation](#installation)
-* [Manual Installation](#manual installation)
-* [Trouble Shooting](#trouble shooting)
+* [Manual Installation](#manual-installation)
+* [Trouble Shooting](#trouble-shooting)
 * [Other information](#other-information) 
 
 
@@ -31,7 +31,6 @@ If the import does not work follow the steps below.
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 
 ### Other information
-In this project I use the Unfolding map library. A very basic Unfolding demo you'll find in the source folder in the default package. 
-For more examples visit [here](http://unfoldingmaps.org)
+In this project I use the Unfolding map library. For more examples visit [here](http://unfoldingmaps.org)
 
 
