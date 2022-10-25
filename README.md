@@ -1,30 +1,21 @@
 # Earthquake-Data-Visualization
 <img aling = "center" src="/map.png" width="700" />
-Plot and visualize geospatial data using Java
-unfolding_app_template and UC San Diego/Coursera MOOC starter code
-==================================================================
 
-This is a skeleton to use Unfolding in Eclipse as well as some starter
-code for the Object Oriented Programming in Java course offered by 
-UC San Diego through Coursera.
+In this project, I used Java to perform data visualization on earth quake data. The data is read live and the plots are made basing on the magnitude of the earth quake. This was my project for my OOP using Java programming class on Coursera.  
 
-A very basic Unfolding demo you'll find in the source folder in the default package. 
-For more examples visit http://unfoldingmaps.org, or download the template with
-examples.
-
-The module folders contain the starter code for the programming assignments
-associated with the MOOC.
-
-Get excited and make things!
+## Table of Contents
+* [Installation](#installation)
+* [Manual Installation](#manual installation)
+* [Trouble Shooting](#trouble shooting)
+* [Other information](#other-information) 
 
 
-INSTALLATION
-
+### Installation
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
 Workspace', Select this folder, 'Finish')
 
 
-MANUAL INSTALLATION
+### Manual Installation
 
 If the import does not work follow the steps below.
 
@@ -35,10 +26,12 @@ If the import does not work follow the steps below.
 - Add data/ as src
 
 
-TROUBLE SHOOTING
+### Trouble Shooting
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 
-
+### Other information
+In this project I use the Unfolding map library. A very basic Unfolding demo you'll find in the source folder in the default package. 
+For more examples visit [here](http://unfoldingmaps.org)
 
 
